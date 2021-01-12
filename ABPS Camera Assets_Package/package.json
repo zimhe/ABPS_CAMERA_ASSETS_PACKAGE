@@ -1,0 +1,23 @@
+{
+  "name": "com.unity.zim.camera_assets",
+  "version": "1.0.0",
+  "displayName": "Camera Assets",
+  "description": "Additional Camera Utilities",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "cameras",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Zim",
+    "email": "Zim0409@gmail.com",
+    "url": ""
+  },
+  "hideInEditor": false,
+  "type": "tool",
+  "dependencies": {
+    "com.unity.postprocessing": "2.3.0"
+  }
+}

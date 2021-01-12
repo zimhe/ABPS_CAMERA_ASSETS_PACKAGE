@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4c26df7c059d09419988e38d7c3408e, type: 3}
+  m_Name: CameraList 1
+  m_EditorClassIdentifier: 
+  savedCameras:
+  - _position: {x: 13.948688, y: 1.6059055, z: 17.350851}
+    _eulerAngles: {x: 10.000009, y: 88.25002, z: 0.0000004334722}
+    _distance: -2.7787588
+    _fov: 30
+  - _position: {x: 13.600801, y: 1.2769334, z: 25.769726}
+    _eulerAngles: {x: 2.5000117, y: 24.750023, z: -0.000000053411693}
+    _distance: -1.8800104
+    _fov: 30
