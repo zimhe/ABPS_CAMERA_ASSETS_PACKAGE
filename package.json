@@ -16,8 +16,5 @@
     "url": ""
   },
   "hideInEditor": false,
-  "type": "tool",
-  "dependencies": {
-    "com.unity.postprocessing": "2.3.0"
-  }
+  "type": "tool"
 }

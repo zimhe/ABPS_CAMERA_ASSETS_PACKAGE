@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4c26df7c059d09419988e38d7c3408e, type: 3}
+  m_Name: CameraList 1
+  m_EditorClassIdentifier: 
+  savedCameras:
+  - _position: {x: 69.76386, y: 5.1423936, z: 76.271454}
+    _eulerAngles: {x: 35.250015, y: 51.500004, z: -0.0000010454694}
+    _distance: -192.11916
+    _fov: 35.514523
+  - _position: {x: 54.422333, y: -1.4199495, z: 83.312614}
+    _eulerAngles: {x: 90, y: 0, z: 0}
+    _distance: -122.95629
+    _fov: 60
+  - _position: {x: 56.19805, y: -9.792133, z: 86.685486}
+    _eulerAngles: {x: 41.750004, y: 54.249996, z: 0}
+    _distance: -200
+    _fov: 28.490023
+  - _position: {x: 36.19554, y: -15.377111, z: 99.95764}
+    _eulerAngles: {x: 39.750015, y: 44.7, z: -0.0000011104672}
+    _distance: -103.33017
+    _fov: 17.211576
+  - _position: {x: 62.95228, y: -8.915833, z: 109.920784}
+    _eulerAngles: {x: 44.000004, y: 134.95001, z: -0.0000011868849}
+    _distance: -99.675606
+    _fov: 16.835958
+  - _position: {x: 87.091194, y: -6.218153, z: 103.40254}
+    _eulerAngles: {x: 52.25, y: 313.69995, z: -0.000002789119}
+    _distance: -64.01858
+    _fov: 29.5097
+  - _position: {x: 55.846516, y: -1.4199545, z: 129.90883}
+    _eulerAngles: {x: 90, y: 0, z: 0}
+    _distance: -61.19092
+    _fov: 60
+  - _position: {x: 68.830864, y: -8.55733, z: 115.319626}
+    _eulerAngles: {x: 44.00002, y: 134.95001, z: 0}
+    _distance: -80.73724
+    _fov: 16.835958
+  - _position: {x: 45.414562, y: 13.337063, z: 124.432526}
+    _eulerAngles: {x: 39.75002, y: 44.700005, z: 0}
+    _distance: -42.95486
+    _fov: 17.211576
